@@ -1,16 +1,36 @@
-### Hi there 👋
+### Algumas Linguagens De Programação Que Mais Trabalho 👋
 
-<!--
-**sangiorgiovba/sangiorgiovba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 java  - 💻 Csharp - 💻 Access - 💻 excel vba - 💻 delphi - 💻 python - 💻 visual basic - 💻 IOS - 💻 Android - 💻 Swift
+- 💻 Ruby - 💻 Java Script - 💻 Golang - 💻 C++ - 💻 C - 💻 PHP - 💻 Mysq - 💻 HTML - 💻 CSS - 💻 SQL- 💻 TYPESCRIPT - 💻 GO
+- 💻 ASSEMBLY - 💻 OBJECTIVE-C - 💻 VB.NET - 💻 R - 💻 MATLAB - 💻 SCALA - 💻 LUA - 💻 SHELL - 💻 PERL - 💻 KOTLIN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
